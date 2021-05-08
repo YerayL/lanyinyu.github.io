@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lanyinyu.github.io</id>
     <title>兰胤余</title>
-    <updated>2021-05-08T03:48:04.295Z</updated>
+    <updated>2021-05-08T03:52:03.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lanyinyu.github.io"/>
     <link rel="self" href="https://lanyinyu.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://lanyinyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 兰胤余</rights>
     <entry>
-        <title type="html"><![CDATA[个人简历（未完成）]]></title>
+        <title type="html"><![CDATA[个人简历]]></title>
         <id>https://lanyinyu.github.io/post/ce-shi-yi-xia/</id>
         <link href="https://lanyinyu.github.io/post/ce-shi-yi-xia/">
         </link>
@@ -44,33 +44,33 @@
 </ul>
 <h1 id="专业技能">专业技能</h1>
 <ul>
-<li>**编程语言：**熟悉Python，掌握C++，Java</li>
-<li>**深度学习：**熟悉Pytorch、Numpy、Sklearn，掌握Keras、Tensorflow</li>
-<li>**数据库：**掌握MongoDB、MySQL</li>
+<li><strong>编程语言：</strong> 熟悉Python，掌握C++，Java</li>
+<li><strong>深度学习：</strong> 熟悉Pytorch、Numpy、Sklearn，掌握Keras、Tensorflow</li>
+<li><strong>数据库：</strong> 掌握MongoDB、MySQL</li>
 <li><strong>搜索引擎</strong>：掌握Elasticsearch</li>
-<li>**自然语言处理：**熟悉预训练语言模型、熟悉知识图谱、熟悉知识推理（链接预测、知识图谱补全等）</li>
+<li><strong>自然语言处理：</strong> 熟悉预训练语言模型、熟悉知识图谱、熟悉知识推理（链接预测、知识图谱补全等）</li>
 </ul>
 <h1 id="项目经历">项目经历</h1>
 <ul>
 <li><strong>知识关联与事件推理类问题求解关键技术与系统（国家重点研发计划二级独立课题）</strong>             <strong>2019.05-2022.04</strong>
 <ul>
-<li>**简介：**知识推理的重要性。。。</li>
+<li><strong>简介：</strong> 知识推理的重要性。。。</li>
 <li><strong>难点：</strong></li>
-<li>**负责：**研究融合规则与表示学习的方法</li>
+<li><strong>负责：</strong> 研究融合规则与表示学习的方法</li>
 <li><strong>结果：</strong></li>
 </ul>
 </li>
-<li>**知识图谱的向量化表示学习方法研究（自动化所-腾讯）  **                                                           <strong>2019.11-2020.10</strong>
+<li>**知识图谱的向量化表示学习方法研究（自动化所-腾讯） **                                                           <strong>2019.11-2020.10</strong>
 <ul>
-<li>**简介：**知识图谱介绍。。。</li>
-<li>**难点：**知识图谱的稀疏性问题，低频实体占比高，长尾</li>
-<li>**负责：**研究更好的表示学习模型</li>
+<li><strong>简介：</strong> 知识图谱介绍。。。</li>
+<li><strong>难点：</strong> 知识图谱的稀疏性问题，低频实体占比高，长尾</li>
+<li><strong>负责：</strong> 研究更好的表示学习模型</li>
 <li><strong>结果：</strong></li>
 </ul>
 </li>
 <li><strong>面向案件审判执行全流程的智能问答技术及平台（国家重点研发计划）</strong>                                    <strong>2018.08-2021.07</strong>
 <ul>
-<li>**简介：**构建大规模司法知识图谱，研究于知识图谱的任务型多轮交互式问答系统、多轮问答的上下文表示方法、问句语义理解技术和问答匹配方法，实现智慧法院智能化服务技术中的面向案件审判执行全流程的智能问答系统和平台。</li>
+<li><strong>简介：</strong> 构建大规模司法知识图谱，研究于知识图谱的任务型多轮交互式问答系统、多轮问答的上下文表示方法、问句语义理解技术和问答匹配方法，实现智慧法院智能化服务技术中的面向案件审判执行全流程的智能问答系统和平台。</li>
 <li><strong>负责：</strong>
 <ul>
 <li>司法知识图谱构建：</li>
@@ -84,44 +84,12 @@
 </ul>
 <h1 id="科研经历">科研经历</h1>
 <p><strong>Path-based knowledge reasoning with textual semantic information for medical knowledge graph completion</strong> <strong>（CHIP 2020一作发表，并被推荐到SCI期刊BMC Medical Informatics and Decision Making出版）</strong></p>
-<p>​	**简介：**医学知识图谱通常是严重不完整的，所以需要对知识图谱进行补全。传统地基于路径推理的方法受限于知识图谱的稀疏性问题，对于稀疏路径无法有效学习表示。我们提出了两种利用预训练语言模型融合文本语义信息以增强表示学习的方法。</p>
-<p>​	**方法：**1）利用实体的类型、描述信息，通过预训练语言模型的编码增强实体表示，来解决实体稀疏性的问题。2）讲实体关系序列构成的路径转化为文本的形式，通过预训练语言模型的编码增强稀疏路径的表示，来解决路径稀疏性的问题。</p>
-<p>​	**结果：**在公开的中文症状知识图谱上实验结果证明了提出的方法显著优于之前SOTA的路径推理方法，在所有关系上MAP（平均精度均值）提升5.83%。</p>
+<p>​	<strong>简介：</strong> 医学知识图谱通常是严重不完整的，所以需要对知识图谱进行补全。传统地基于路径推理的方法受限于知识图谱的稀疏性问题，对于稀疏路径无法有效学习表示。我们提出了两种利用预训练语言模型融合文本语义信息以增强表示学习的方法。</p>
+<p>​	<strong>方法：</strong> 1）利用实体的类型、描述信息，通过预训练语言模型的编码增强实体表示，来解决实体稀疏性的问题。2）讲实体关系序列构成的路径转化为文本的形式，通过预训练语言模型的编码增强稀疏路径的表示，来解决路径稀疏性的问题。</p>
+<p>​	<strong>结果：</strong> 在公开的中文症状知识图谱上实验结果证明了提出的方法显著优于之前SOTA的路径推理方法，在所有关系上MAP（平均精度均值）提升5.83%。</p>
 <hr>
 <h1 id="致谢">致谢</h1>
 <p>感谢您花时间阅读我的简历，期待能有机会和您共事。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lanyinyu.github.io/post/hello-gridea/</id>
-        <link href="https://lanyinyu.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
