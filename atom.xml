@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lanyinyu.github.io</id>
     <title>兰胤余</title>
-    <updated>2021-05-31T09:07:35.014Z</updated>
+    <updated>2021-06-27T11:25:57.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lanyinyu.github.io"/>
     <link rel="self" href="https://lanyinyu.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://lanyinyu.github.io/images/avatar.png</logo>
     <icon>https://lanyinyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 兰胤余</rights>
+    <entry>
+        <title type="html"><![CDATA[在找实习]]></title>
+        <id>https://lanyinyu.github.io/post/zai-zhao-shi-xi/</id>
+        <link href="https://lanyinyu.github.io/post/zai-zhao-shi-xi/">
+        </link>
+        <updated>2021-06-27T11:13:10.000Z</updated>
+        <content type="html"><![CDATA[<p>上周投了几份简历出去，陆续都有收到面试的通知。除了第一次面美团没有做好准备以外（本来约好一二轮面试一起的，应该是表现太拉垮，结果第二轮直接被他们鸽掉了），其他场面试似乎都非常顺利。面试就像是聊天一样轻松，阿里达摩院、腾讯TEG还有商汤研究院都很顺利。不出以外，我应该会去商汤研究院实习，面试官给我的感觉挺好的，感觉是一个比较open、自由的地方。</p>
+<p>在实验室真的好无聊啊，做科研是不错，但是是真的没意思，完全没有生活可言。主要是没有钱，啥也干不了，做什么都好似是在浪费时间，索性全投入在实验室了。</p>
+<p>何时开始生活。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“奋斗逼”]]></title>
         <id>https://lanyinyu.github.io/post/fen-dou-bi/</id>
